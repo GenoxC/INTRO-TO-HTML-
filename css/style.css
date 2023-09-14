@@ -1,0 +1,10 @@
+h3 {
+    color: firebrick;
+    background-color: blanchedalmond;
+}
+h1{
+    text-align: center;
+}
+table, th, td{
+   border: 1px solid brown;
+}
